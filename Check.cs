@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+//LABB 5 Dan Gustafsson, SUT21
 namespace Labb5Generic
 {
     public class Check<T>

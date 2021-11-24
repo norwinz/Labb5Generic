@@ -11,10 +11,6 @@ namespace Labb5Generic
         {
 
         }
-
-         
-        
-
-        
+ 
     }
 }
